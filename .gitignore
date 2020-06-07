@@ -1,0 +1,8 @@
+# Project exclude paths
+/config-server/target/
+/eureka-server/target/
+/guest-services/target/
+/reservation-business-services/target/
+/reservation-services/target/
+/reservation-webapp/target/
+/room-services/target/
